@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kobeconomon
-- 👀 I’m interested in firmware, electronics
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in embedded systems, machine learning
+- 🌱 I’m currently learning RFID technology and data science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... kobeconomon@knights.ucf.edu
 
