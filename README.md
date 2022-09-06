@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kobeconomon
-- 👀 I’m interested in Machine Learning, Web Development
-- 🌱 I’m currently learning RFID technology, Data Structures & Algorithms, and Web Development
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Embedded Systems, Software Development, Automation, and AI
+- 🌱 I’m currently learning RFID technology, Data Structures & Algorithms, and OOP techniques
+- 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me: kobeconomon@knights.ucf.edu
 
 <!---
